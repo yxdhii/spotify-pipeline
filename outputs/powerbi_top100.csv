@@ -1,0 +1,101 @@
+﻿ranking,track_name,artist_name,released_year,released_month,mode,musical_key,streams_m,bpm,danceability,energy,valence,in_spotify_playlists,in_apple_playlists,in_deezer_playlists
+1,Blinding Lights,The Weeknd,2019,11,Major,C#,3703.9,171,50,80,38,43899,672,0
+2,Shape of You,Ed Sheeran,2017,1,Minor,C#,3562.5,96,83,65,93,32181,33,0
+3,Someone You Loved,Lewis Capaldi,2018,11,Major,C#,2887.2,110,50,41,45,17836,440,0
+4,Dance Monkey,Tones and I,2019,5,Minor,F#,2864.8,98,82,59,54,24529,533,0
+5,Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee",2018,10,Major,D,2808.1,90,76,50,91,24094,372,843
+6,One Dance,"Drake, WizKid, Kyla",2016,4,Major,C#,2713.9,104,77,63,36,43257,433,0
+7,STAY (with Justin Bieber),"Justin Bieber, The Kid Laroi",2021,7,Major,C#,2665.3,170,59,76,48,17050,492,798
+8,Believer,Imagine Dragons,2017,1,Minor,A#,2594.0,125,77,78,74,18986,250,0
+9,Closer,"The Chainsmokers, Halsey",2016,5,Major,G#,2591.2,95,75,52,64,28032,315,0
+10,Starboy,"The Weeknd, Daft Punk",2016,9,Major,G,2565.5,186,68,59,49,29536,281,0
+11,Perfect,Ed Sheeran,2017,1,Major,G#,2559.5,95,60,45,17,16596,7,0
+12,Heat Waves,Glass Animals,2020,6,Major,B,2558.0,81,76,53,53,22543,386,707
+13,As It Was,Harry Styles,2022,3,Minor,F#,2513.2,174,52,73,66,23575,403,863
+14,Seï¿½ï¿½o,"Shawn Mendes, Camila Cabello",2019,6,Minor,A,2484.8,117,76,52,77,15010,453,0
+15,Say You Won't Let Go,James Arthur,2016,9,Major,A#,2420.5,99,40,56,45,15722,231,0
+16,lovely - Bonus Track,"Billie Eilish, Khalid",2017,8,Minor,E,2355.7,115,35,30,12,15032,221,0
+17,Watermelon Sugar,Harry Styles,2019,11,Major,Unknown,2322.6,95,55,82,56,21915,437,0
+18,Don't Start Now,Dua Lipa,2019,10,Minor,B,2303.0,124,79,79,68,27119,532,0
+19,Lucid Dreams,Juice WRLD,2017,6,Minor,B,2288.7,84,44,48,22,14749,188,710
+20,Sweater Weather,The Neighbourhood,2012,5,Major,A#,2282.8,124,61,81,41,16413,166,0
+21,Thinking Out Loud,Ed Sheeran,2014,1,Major,D,2280.6,79,78,45,58,33032,363,0
+22,Photograph,Ed Sheeran,2014,6,Major,E,2236.7,108,61,38,20,18778,228,0
+23,Something Just Like This,"The Chainsmokers, Coldplay",2017,2,Minor,B,2204.1,103,61,65,47,23375,336,0
+24,Bohemian Rhapsody - Remastered 2011,Queen,1975,10,Minor,Unknown,2197.0,71,41,40,23,40112,321,0
+25,Shallow,"Lady Gaga, Bradley Cooper",2018,9,Major,G,2159.4,96,57,40,30,16636,368,0
+26,Take Me To Church,Hozier,2013,9,Minor,E,2135.2,129,57,66,41,23804,187,0
+27,Circles,Post Malone,2019,8,Major,Unknown,2132.3,120,70,75,59,19664,391,633
+28,Love Yourself,Justin Bieber,2015,11,Major,E,2123.3,100,61,38,53,22730,289,0
+29,All of Me,John Legend,2013,8,Major,G#,2086.1,120,42,26,33,27221,308,0
+30,Counting Stars,OneRepublic,2013,1,Minor,C#,2011.5,122,66,71,48,29215,179,0
+31,Riptide,Vance Joy,1975,1,Major,C#,2009.1,102,48,73,50,31123,300,0
+32,Wake Me Up - Radio Edit,Avicii,2013,1,Major,D,1970.7,124,53,78,66,50887,315,0
+33,Can't Hold Us (feat. Ray Dalton),"Ray Dalton, Ryan Lewis, Macklemore",2011,8,Major,D,1953.5,146,63,93,88,6074,201,0
+34,The Hills,The Weeknd,2015,5,Minor,Unknown,1947.4,136,36,57,12,25744,122,0
+35,HUMBLE.,Kendrick Lamar,2017,3,Minor,C#,1929.8,150,91,60,42,33206,284,0
+36,One Kiss (with Dua Lipa),"Calvin Harris, Dua Lipa",2017,6,Minor,A,1897.5,124,79,86,59,27705,537,0
+37,good 4 u,Olivia Rodrigo,2021,5,Minor,F#,1887.0,166,56,66,68,15563,259,461
+38,drivers license,Olivia Rodrigo,2021,1,Major,A#,1858.1,144,59,43,21,12685,185,485
+39,Demons,Imagine Dragons,2012,1,Major,D#,1840.4,180,33,71,38,26694,65,0
+40,Lose Yourself - Soundtrack Version,Eminem,2002,1,Major,D,1830.0,171,70,73,6,32502,247,0
+41,INDUSTRY BABY (feat. Jack Harlow),"Jack Harlow, Lil Nas X",2021,7,Minor,D#,1814.4,150,74,70,89,13315,300,690
+42,Another Love,Tom Odell,2012,10,Minor,E,1813.7,123,45,54,13,18371,250,0
+43,Mr. Brightside,The Killers,2003,9,Major,C#,1806.6,148,35,93,24,51979,306,0
+44,Levitating (feat. DaBaby),"Dua Lipa, DaBaby",2020,3,Minor,F#,1802.5,103,70,83,92,15894,198,544
+45,No Role Modelz,J. Cole,2014,12,Minor,A#,1791.0,100,70,52,47,21164,80,476
+46,Do I Wanna Know?,Arctic Monkeys,2013,1,Major,F,1788.3,85,55,53,42,33783,133,0
+47,Dakiti,"Bad Bunny, Jhay Cortez",2020,10,Minor,E,1763.4,110,73,57,14,11215,189,525
+48,Memories,Maroon 5,2019,9,Major,B,1759.6,91,77,32,60,9974,272,0
+49,Yellow,Chris Molitor,1999,1,Major,B,1755.2,173,43,66,28,31358,196,0
+50,MONTERO (Call Me By Your Name),Lil Nas X,2020,9,Minor,G#,1735.4,179,61,51,76,12329,275,738
+51,There's Nothing Holdin' Me Back,Shawn Mendes,2016,9,Major,D,1714.5,122,86,80,97,12382,229,0
+52,Mood (feat. Iann Dior),"24kgoldn, Iann Dior",2020,7,Minor,G,1699.4,91,70,72,76,12854,237,636
+53,'Till I Collapse,"Eminem, Nate Dogg",2002,5,Major,C#,1695.7,171,55,85,10,22923,78,0
+54,Dynamite,BTS,2020,8,Minor,F#,1692.9,114,75,77,74,8528,239,583
+55,Smells Like Teen Spirit - Remastered 2021,Nirvana,1991,9,Major,C#,1690.2,117,52,91,73,49991,265,0
+56,Without Me,Eminem,2002,1,Major,G,1687.7,112,92,66,67,21081,98,0
+57,When I Was Your Man,Bruno Mars,2012,12,Major,Unknown,1661.2,145,60,27,43,2420,0,806
+58,Die For You,The Weeknd,2016,11,Minor,C#,1648.0,134,59,52,51,2483,68,24
+59,Just The Way You Are,Bruno Mars,2010,1,Major,F,1641.4,109,63,85,46,21106,82,0
+60,In The End,Linkin Park,2000,10,Minor,D#,1624.2,105,55,90,40,25065,63,0
+61,The Scientist,Coldplay,2002,8,Major,F,1608.2,146,56,44,21,30992,124,0
+62,Before You Go,Lewis Capaldi,2019,11,Major,D#,1608.1,112,45,60,19,8327,205,625
+63,I'm Not The Only One,Sam Smith,2014,1,Major,F,1607.0,82,68,49,50,17492,136,0
+64,Cold Heart - PNAU Remix,"Dua Lipa, Elton John, Pnau",2017,11,Major,C#,1605.2,116,80,80,92,21097,384,0
+65,Every Breath You Take - Remastered 2003,The Police,1983,1,Major,C#,1593.3,117,82,45,73,22439,211,929
+66,Viva La Vida,Coldplay,2008,1,Minor,F,1592.9,138,49,62,42,33898,233,0
+67,Save Your Tears,The Weeknd,2020,3,Major,Unknown,1591.2,118,68,82,61,12688,197,112
+68,Kiss Me More (feat. SZA),"SZA, Doja Cat",2021,4,Major,G#,1575.5,111,77,66,74,15867,382,497
+69,Bad Habits,Ed Sheeran,2020,9,Minor,B,1555.5,126,81,90,59,12755,344,945
+70,Sweet Child O' Mine,Guns N' Roses,1987,1,Major,F#,1553.5,125,45,90,67,41231,228,0
+71,Locked Out Of Heaven,Bruno Mars,2012,12,Major,F,1481.4,144,73,70,87,1622,0,356
+72,Payphone,"Maroon 5, Wiz Khalifa",2012,1,Major,E,1479.3,110,74,74,51,14143,56,0
+73,Take On Me,a-ha,1984,10,Minor,F#,1479.1,84,57,90,86,44927,34,0
+74,Rolling in the Deep,Adele,2010,11,Major,G#,1472.8,105,73,76,52,35684,195,0
+75,Somebody That I Used To Know,"Gotye, Kimbra",2011,1,Major,Unknown,1457.1,129,86,52,75,42798,217,0
+76,The Nights,Avicii,2014,1,Major,F#,1456.1,126,53,85,66,17354,92,0
+77,Call Out My Name,The Weeknd,2018,3,Major,C#,1449.8,134,45,60,17,11087,151,801
+78,All I Want for Christmas Is You,Mariah Carey,1994,10,Major,G,1449.8,150,34,63,33,25653,387,0
+79,Peaches (feat. Daniel Caesar & Giveon),"Justin Bieber, Daniel Caesar, Giveon",2021,3,Major,Unknown,1445.9,90,63,68,49,14140,231,612
+80,Me Porto Bonito,"Chencho Corleone, Bad Bunny",2022,5,Minor,C#,1440.8,92,91,71,43,8870,104,141
+81,Adore You,Harry Styles,2019,12,Major,G#,1439.2,99,68,77,57,13454,246,519
+82,LA CANCIï¿½,"J Balvin, Bad Bunny",2019,6,Major,G,1435.1,176,75,65,43,6398,177,305
+83,The Real Slim Shady,Eminem,2000,1,Minor,F,1424.6,104,95,66,78,20763,81,0
+84,The Night We Met,Lord Huron,2015,2,Major,D,1410.1,174,45,37,10,18515,70,939
+85,Easy On Me,Adele,2021,10,Major,F,1406.1,142,60,37,13,10195,258,657
+86,Let Me Down Slowly,Alec Benjamin,2018,5,Minor,C#,1374.6,150,65,55,51,5897,0,885
+87,Beggin,Mï¿½ï¿½ne,2017,12,Minor,B,1367.8,134,71,80,59,8559,183,964
+88,Numb,Linkin Park,2003,3,Major,A,1361.4,110,50,86,24,20111,39,0
+89,Gangsta's Paradise,"Coolio, L.V.",1995,7,Major,G#,1357.6,80,63,61,40,10624,21,386
+90,"Quevedo: Bzrp Music Sessions, Vol. 52","Bizarrap, Quevedo",2022,7,Major,D,1356.6,128,62,78,55,8506,94,164
+91,Blank Space,Taylor Swift,2014,1,Major,F,1356.0,96,75,68,57,11434,154,410
+92,Woman,Doja Cat,2021,6,Minor,F,1329.1,108,82,76,88,9424,202,463
+93,Flowers,Miley Cyrus,2023,1,Major,Unknown,1316.9,118,71,68,65,12211,300,745
+94,Pepas,Farruko,2021,6,Major,G,1309.9,130,76,77,44,14114,252,965
+95,Callaita,"Bad Bunny, Tainy",2019,5,Major,D,1304.3,176,61,62,24,9539,162,355
+96,Shivers,Ed Sheeran,2021,9,Major,D,1302.2,141,79,86,82,10147,234,543
+97,Heather,Conan Gray,2020,3,Major,F,1301.8,92,47,43,25,6170,82,231
+98,I Wanna Be Yours,Arctic Monkeys,2013,1,Minor,Unknown,1297.0,135,48,42,44,12859,24,582
+99,Iris,The Goo Goo Dolls,1998,3,Minor,B,1284.9,156,32,72,49,13101,137,582
+100,Danza Kuduro,"Don Omar, Lucenzo",2010,1,Major,Unknown,1279.4,130,47,92,86,17138,119,974
