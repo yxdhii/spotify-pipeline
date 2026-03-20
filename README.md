@@ -125,7 +125,7 @@ El dashboard incluye:
 
 ## 📄 Dataset
 
-**Fuente:** [Kaggle — Top Spotify Songs 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
+**Fuente:** [Kaggle — Top Spotify Songs 2023](https://www.kaggle.com/datasets/arnavvvvv/spotify-music)
 **Registros:** 952 canciones | **Columnas:** 24 | **Período:** 1930–2023
 
 ---
