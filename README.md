@@ -130,4 +130,4 @@ El dashboard incluye:
 
 ---
 
-*Proyecto de portfolio — Data Analysis con Python · PostgreSQL · Power BI*
+*Yadhira Saavedra*
